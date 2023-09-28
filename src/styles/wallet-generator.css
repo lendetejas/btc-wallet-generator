@@ -1,0 +1,33 @@
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  .generate-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .generate-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .wallet-info {
+    margin-top: 20px;
+  }
+  
